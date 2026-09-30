@@ -1,0 +1,18 @@
+Space       → play-pause
+
+←           → seek-backward
+→           → seek-forward
+
+Shift + ←   → seek-backward-long
+Shift + →   → seek-forward-long
+
+↑           → volume-up
+↓           → volume-down
+
+M           → mute
+F           → fullscreen
+C           → screenshot
+S           → subtitles
+A           → audio
+H           → keyboard-help
+Q           → quit
